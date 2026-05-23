@@ -1,18 +1,18 @@
 # Python Fundamentals
 
-> A personal learning repository documenting my Python journey from scratch, covering core programming concepts and applying them toward cybersecurity and automation.
+> A personal learning repository documenting my Python journey from scratch, building the scripting foundation needed for Cloud Security, DevSecOps, and offensive security work.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3d8b40?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Security%20Engineering-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20Security%20%26%20DevSecOps-orange?style=flat-square)
 
 ---
 
 ## About
 
-This repository is where I document my Python learning process, one topic at a time. Each folder represents a day or session of focused study, written to be readable, revisitable, and useful as a personal reference.
+This repo documents my Python learning process one topic at a time. Each folder is a focused study session, written to be readable, revisitable, and useful as a reference.
 
-The goal is not just to learn Python syntax but to build a solid programming foundation that supports deeper work in cybersecurity, scripting, and tool development.
+I am a Computer Science student with a background in offensive security, transitioning toward Cloud Security and DevSecOps. Python is the scripting backbone of almost everything in that space, so getting the fundamentals right matters.
 
 ---
 
@@ -38,17 +38,17 @@ The goal is not just to learn Python syntax but to build a solid programming fou
 
 ## Why This Repo Exists
 
-I am a security engineering student who started learning Python to strengthen my scripting and automation skills. Most of the code here is small, focused, and written to understand one concept at a time.
+Python is not optional in Cloud Security or DevSecOps. Whether it is writing security automation scripts, building Lambda functions, parsing cloud logs, or crafting exploit tooling, every serious practitioner needs a clean Python foundation.
 
-If you are a beginner, you will probably find this approachable. If you are revisiting basics, the folder structure makes it easy to jump around.
+This repo is that foundation, built step by step, nothing skipped.
 
 ---
 
 ## Approach
 
-Each session folder has Python files that focus on a single topic. No frameworks, no libraries, no fluff. Just core Python the way it should be learned first.
+Each session folder has Python files focused on exactly one concept. No frameworks, no dependencies, no noise. Just core Python the way it should be learned before anything else.
 
-The CampusX bonus section adds an AI-focused Python track that extends beyond the basics into more practical territory.
+The CampusX bonus section extends into AI-focused Python, which ties into my broader interest in applying ML to security tooling.
 
 ---
 
@@ -62,16 +62,16 @@ The CampusX bonus section adds an AI-focused Python track that extends beyond th
 
 ## Who Is This For
 
-Anyone starting Python from scratch, especially those coming from a security or networking background who want practical scripting skills. Every file is self-contained and readable without any setup.
+Anyone starting Python with a security or cloud engineering goal in mind. Every file is self-contained and needs no setup to read or run.
 
 ---
 
 ## Connect
 
-I document my learning journey across cybersecurity, cloud, and development on GitHub and Medium. Feel free to follow along, raise issues, or fork anything useful.
+I document my learning across offensive security, cloud, and DevSecOps on GitHub and Medium.
 
 - GitHub: [muhammadkashifsecurityengineer](https://github.com/muhammadkashifsecurityengineer)
 
 ---
 
-*Built and maintained by Muhammad Kashif | Pakistan | Security Engineering Student*
+*Muhammad Kashif | CS Student | Offensive Security | Cloud Security | DevSecOps*
